@@ -3,27 +3,39 @@
 ## Objective
 - Learn AWS Cloud Practitioner Essentials and Technical Essentials
 - Understand AWS global infrastructure, EC2, S3, IAM
+  
+## Concepts Learned (Cloud Essentials)
+- Definition of cloud computing
+- Differences between IaaS, PaaS, and SaaS
+- AWS Shared Responsibility Model
+- AWS Regions and Availability Zones
+- Benefits of cloud computing (scalability, elasticity, pay-as-you-go)
 
-## AWS Services Used
-- EC2
-- S3
-- IAM
+## AWS Services Explored
+- EC2 (console exploration)
+- S3 (console exploration)
+- IAM (console exploration)
 
 ## Architecture Diagram
-- (Add diagram later if needed)
+- 
 
-## Implementation Steps
-1. Create an AWS free-tier account
-2. Launch your first EC2 instance
-3. Explore S3 and create your first bucket
-4. Explore IAM, users, and roles
+## Hands-On Exploration (Beginner)
+1. Created AWS free-tier account
+2. Explored AWS Management Console
+3. Navigated EC2, S3, and IAM dashboards
+4. Reviewed AWS global infrastructure map
 
 ## Challenges & Solutions
-- (Add notes about any issues you faced)
+- 
 
 ## Results
-- Successfully launched EC2 and S3 bucket
-- Document what you learned
+- Gained foundational understanding of AWS core services
+- Successfully navigated AWS console and service dashboards
+
 
 ## Lessons Learned
-- (Summarize key takeaways)
+-## Lessons Learned
+- Cloud services are region-based
+- IAM controls access to AWS resources
+- EC2 provides compute capacity, while S3 provides object storage
+
